@@ -36,6 +36,9 @@ __`img.`__: image level  &emsp; | &emsp; __`vid.`__: video level &emsp; | &emsp;
 - [[arxiv](https://arxiv.org/pdf/2008.00810.pdf)] CASNet: Common Attribute Support Network for image instance and panoptic segmentation. [__`img.`__]
 - [[arxiv](https://arxiv.org/pdf/2008.00192.pdf)] PanoNet: Real-time Panoptic Segmentation through Position-Sensitive Feature Embedding. [__`img.`__]
 - [[arxiv](https://arxiv.org/pdf/2002.07705.pdf)] Towards Bounding-Box Free Panoptic Segmentation. [__`img.`__]
+- [[arxiv](https://arxiv.org/pdf/2003.10142.pdf)] EPSNet: Efficient Panoptic Segmentation Network with Cross-layer Attention Fusion. [__`img.`__]
+- [[arxiv](https://arxiv.org/pdf/2004.02307.pdf)] EfficientPS: Efficient Panoptic Segmentation. [__`img.`__]
+- [[arxiv](https://arxiv.org/pdf/2003.02371.pdf)] A Benchmark for LiDAR-based Panoptic Segmentation based on KITTI. [__`img.`__]
 
 ---
 ## 2019
