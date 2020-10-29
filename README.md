@@ -22,7 +22,7 @@ __`img.`__: image level  &emsp; | &emsp; __`vid.`__: video level &emsp; | &emsp;
 - [[CVPR](https://arxiv.org/abs/1912.01202v3)] Real-Time Panoptic Segmentation from Dense Detections. [[pytorch](https://github.com/TRI-ML/realtime_panoptic)] [__`img.`__]
 - [[CVPR](https://arxiv.org/abs/2001.04982)] Unifying Training and Inference for Panoptic Segmentation. [__`img.`__]
 - [[CVPR](https://arxiv.org/abs/1906.05896v4)] Learning Instance Occlusion for Panoptic Segmentation. [__`img.`__]
-- [[CVPR](https://arxiv.org/abs/2004.01849v1)] Pixel Consensus Voting for Panoptic Segmentation. [[pytorch](https://github.com/w-hc/pcv] [__`img.`__]
+- [[CVPR](https://arxiv.org/abs/2004.01849v1)] Pixel Consensus Voting for Panoptic Segmentation. [[pytorch](https://github.com/w-hc/pcv)] [__`img.`__]
 - [[CVPR](https://arxiv.org/abs/2004.06272v1)] Bidirectional Graph Reasoning Network for Panoptic Segmentation. [__`img.`__]
 - [[ECCV](https://arxiv.org/pdf/2003.07853v2.pdf)] Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation. [[pytorch](https://github.com/csrhddlam/axial-deeplab)] [__`img.`__]
 - [[AAAI](https://arxiv.org/abs/1911.07527)] SOGNet: Scene Overlap Graph Network for Panoptic Segmentation. [[pytorch](https://github.com/LaoYang1994/SOGNet)] [__`img.`__]
@@ -36,3 +36,6 @@ __`img.`__: image level  &emsp; | &emsp; __`vid.`__: video level &emsp; | &emsp;
 - [[CVPR](https://arxiv.org/pdf/1903.05027.pdf)] An End-to-End Network for Panoptic Segmentation. [__`img.`__] 
 - [[CVPR](https://arxiv.org/pdf/1801.00868.pdf)] Panoptic Segmentation. [__`img.`__] 
 
+---
+## 2018
+- [[CVPR](https://arxiv.org/pdf/1808.03575.pdf)] Weakly- and Semi-Supervised Panoptic Segmentation. [[matlab](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)] [__`img.`__] 
