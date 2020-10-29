@@ -32,6 +32,7 @@ __`img.`__: image level  &emsp; | &emsp; __`vid.`__: video level &emsp; | &emsp;
 ## 2019
 - [[CVPR](https://arxiv.org/pdf/1901.02446v2.pdf)] Panoptic Feature Pyramid Networks. [__`img.`__]
 - [[CVPR](https://arxiv.org/pdf/1901.03784v2.pdf)] UPSNet: A Unified Panoptic Segmentation Network. [[pytorch](https://github.com/uber-research/UPSNet)] [__`img.`__] 
-
-
+- [[CVPR](https://arxiv.org/pdf/1812.03904v2.pdf)] Attention-guided Unified Network for Panoptic Segmentation. [__`img.`__] 
+- [[CVPR](https://arxiv.org/pdf/1903.05027.pdf)] An End-to-End Network for Panoptic Segmentation. [__`img.`__] 
+- [[CVPR](https://arxiv.org/pdf/1801.00868.pdf)] Panoptic Segmentation. [__`img.`__] 
 
