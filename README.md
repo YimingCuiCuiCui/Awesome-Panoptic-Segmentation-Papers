@@ -47,7 +47,9 @@ __`img.`__: image level  &emsp; | &emsp; __`vid.`__: video level &emsp; | &emsp;
 - [[CVPR](https://arxiv.org/pdf/1812.03904v2.pdf)] Attention-guided Unified Network for Panoptic Segmentation. [__`img.`__] 
 - [[CVPR](https://arxiv.org/pdf/1903.05027.pdf)] An End-to-End Network for Panoptic Segmentation. [__`img.`__] 
 - [[CVPR](https://arxiv.org/pdf/1801.00868.pdf)] Panoptic Segmentation. [__`img.`__] 
+- [[IJCAI](https://www.ijcai.org/Proceedings/2019/0121.pdf)] Nuclei Segmentation via a Deep Panoptic Model with Semantic Feature Fusion. [__`img.`__] 
 - [[IROS](https://arxiv.org/pdf/1903.01177.pdf)] PanopticFusion: Online Volumetric Semantic Mapping at the Level of Stuff and Things. [__`img.`__] 
+
 ---
 ## 2018
 - [[CVPR](https://arxiv.org/pdf/1808.03575.pdf)] Weakly- and Semi-Supervised Panoptic Segmentation. [[matlab](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)] [__`img.`__] 
